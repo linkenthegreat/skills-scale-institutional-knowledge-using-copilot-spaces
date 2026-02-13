@@ -75,8 +75,6 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
----
-
 ## UX Designer
 
 ### Role Summary
@@ -165,7 +163,7 @@ Business Analysts (BAs) translate stakeholder needs into clear, testable require
 ### Key Responsibilities
 - Elicit and document detailed requirements, acceptance criteria, and business rules.
 - Run stakeholder interviews, clarify edge cases, and produce data or process diagrams as needed.
-- Assist Product Managers in backlog refinement and grooming sessions.
+- Assist Product Managers in backlog refinement sessions.
 
 ### Interactions with existing roles
 - Product Manager: Align on objectives, trade-offs, and scope details.
