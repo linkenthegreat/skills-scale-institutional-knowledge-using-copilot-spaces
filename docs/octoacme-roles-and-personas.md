@@ -124,6 +124,11 @@ QA Automation Engineers design, implement, and maintain automated test suites th
 ### Typical Communication
 - Test coverage dashboards, PR comments with test links, CI status and alerts.
 
+### Example success criteria
+- Automated test coverage maintained above target threshold for all new features.
+- Flaky test rate reduced to less than 2% of total test suite.
+- Critical regressions detected within one CI cycle of introduction.
+
 ---
 
 ## Release Manager
@@ -145,6 +150,11 @@ Release Managers coordinate release planning and execution to ensure smooth depl
 ### Typical Communication
 - Release planning meetings, pre-launch checks, release announcement templates.
 
+### Example success criteria
+- All releases completed within scheduled maintenance windows.
+- Zero unplanned rollbacks in the last quarter.
+- Release checklist and Go/No-Go criteria documented and approved before each deployment.
+
 ---
 
 ## Business Analyst
@@ -165,6 +175,11 @@ Business Analysts (BAs) translate stakeholder needs into clear, testable require
 ### Typical Communication
 - Requirements docs, backlog item descriptions, and decision logs.
 
+### Example success criteria
+- Requirements approved by stakeholders before development starts.
+- Less than 10% of stories require requirements clarification during implementation.
+- All acceptance criteria testable and documented in backlog items.
+
 ---
 
 ## Stakeholder Representative
@@ -184,6 +199,11 @@ A Stakeholder Representative is a named person who represents a stakeholder grou
 
 ### Typical Communication
 - Periodic review sessions, approval comments on deliverables, and signoff checklists.
+
+### Example success criteria
+- Feedback and approvals provided within agreed-upon SLA timeframes.
+- All domain-specific approvals completed before release.
+- Escalated risks addressed and mitigation plans documented.
 
 ---
 
