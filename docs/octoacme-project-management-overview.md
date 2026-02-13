@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For detailed role definitions, responsibilities, and interactions, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md). When defining project teams or adding new roles, use the [role definition template](templates/role-definition-template.md) to ensure consistency across your documentation.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
